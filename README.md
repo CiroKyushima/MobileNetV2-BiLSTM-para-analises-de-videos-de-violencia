@@ -7,9 +7,8 @@ Projeto que combina uma CNN **MobileNetV2** para extração de features espaciai
 ---
 - python 3.11
 - Numpy
-- Tensorflow
+- Tensorflow/Keras
 - matplotlib
-- Keras
 - sklearn
 ---
 
