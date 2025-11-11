@@ -21,3 +21,15 @@ o dataset apresenta duas classes, violencia e sem violencia, cada classe apresen
 o treinamento utilizou 50 epocas e para verificação do treino, utilizo 3 metricas, a matriz de confusão e a acuracia.
 
 ##Resultados:
+
+##  Como Executar o Projeto
+
+```bash
+# 1️⃣ Clonar o repositório
+git clone https://github.com/CiroKyushima/CGAN-Gerador-de-mapas.git
+
+# 2️⃣ Instalar as dependências
+pip install -r requirements.txt
+
+# 3️⃣ Abrir o Jupyter Notebook
+jupyter notebook main.ipynb
