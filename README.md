@@ -26,7 +26,7 @@ o treinamento utilizou 50 epocas e para verificação do treino, utilizo 3 metri
 
 ```bash
 # 1️⃣ Clonar o repositório
-git clone https://github.com/CiroKyushima/CGAN-Gerador-de-mapas.git
+git clone https://github.com/CiroKyushima/MobileNetV2-BiLSTM-para-analises-de-videos-de-violencia.git
 
 # 2️⃣ Instalar as dependências
 pip install -r requirements.txt
