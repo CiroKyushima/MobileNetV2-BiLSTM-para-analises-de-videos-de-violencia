@@ -22,7 +22,7 @@ o treinamento utilizou 50 epocas e para verificação do treino, utilizo 3 metri
 
 ##Resultados:
 o treinamento foi bem sastifatorio, talvez algumas mudanças em alguns paramentos e o aumento de epocas podem melhorar ainda mais os resultados. o treinamento obteve 82% de acuracia e o grafico abaixo demonstra a classificação de cada classe:
-![modelo 1](image/matriz_MobileNetV2.png)
+![modelo 1](matriz_MobileNetV2.png)
 ##  Como Executar o Projeto
 
 ```bash
