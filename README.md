@@ -5,12 +5,12 @@ Projeto que combina uma CNN **MobileNetV2** para extração de features espaciai
 
 ##Tecnologias Utilizadas:
 ---
-python 3.11
-Numpy
-Tensorflow
-matplotlib
-Keras
-sklearn
+- python 3.11
+- Numpy
+- Tensorflow
+- matplotlib
+- Keras
+- sklearn
 ---
 
 ##Estrutura do Projeto
