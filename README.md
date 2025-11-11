@@ -24,7 +24,7 @@ o treinamento foi bem sastifatorio, talvez algumas mudanças em alguns paramento
 ![modelo 1](matriz_MobileNetV2.png)
 
 
-## Como Executar o Projeto
+## Como Executar o Projeto:
 ---
 ```bash
 # 1️⃣ Clonar o repositório
