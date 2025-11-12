@@ -27,6 +27,8 @@ o treinamento utilizou 50 epocas e para verificação do treino, utilizo 3 metri
 o treinamento foi bem sastifatorio, talvez algumas mudanças em alguns paramentos e o aumento de epocas podem melhorar ainda mais os resultados. o treinamento obteve 82% de acuracia e o grafico abaixo demonstra a classificação de cada classe:
 ![modelo 1](matriz_MobileNetV2.png)
 
+### futuramente colocarei as imagens dos resultado final do treinamento
+
 
 ## Como Executar o Projeto:
 
